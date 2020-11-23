@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSpeechManager.a  CMakeFiles/SpeechManager.dir/SpeechManager.cpp.o CMakeFiles/SpeechManager.dir/Speaker.cpp.o
+/usr/bin/ranlib libSpeechManager.a

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/C++/SpeechManager/Speaker.h
+iostream
+-
+
+/mnt/d/C++/SpeechManager/SpeechManager.cpp
+SpeechManager.h
+/mnt/d/C++/SpeechManager/SpeechManager.h
+
+/mnt/d/C++/SpeechManager/SpeechManager.h
+iostream
+-
+vector
+-
+map
+-
+Speaker.h
+/mnt/d/C++/SpeechManager/Speaker.h
+algorithm
+/mnt/d/C++/SpeechManager/algorithm
+deque
+-
+functional
+-
+fstream
+-
+numeric
+-
+
